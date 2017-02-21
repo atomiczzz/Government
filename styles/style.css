@@ -1,0 +1,10 @@
+.card{
+	display: inline-block;
+	border:2px solid black;
+	margin:5px;
+	padding:3px;
+	background: #8BE8CB;
+}
+.title{
+	display: block;
+}
